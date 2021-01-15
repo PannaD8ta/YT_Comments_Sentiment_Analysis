@@ -1,9 +1,8 @@
 # Youtube Comments Sentiment Analysis
+The study of sentiments and opinions towards the YouTuber's videos was made based on the following article: - https://gantlaborde.medium.com/siraj-rival-no-thanks-fe23092ecd20
 
 - Scraped over 1,000 YouTube comments using Python and Youtube Data API
 - Engineered polarity and subjectivity features based on user's opinions on the targeted Youtube video
-
-https://gantlaborde.medium.com/siraj-rival-no-thanks-fe23092ecd20
 
 1. Firstly, let's get on a virtual environment (venv). "comments_collector" is the name of your venv, and it can be any name of your liking
 ```
