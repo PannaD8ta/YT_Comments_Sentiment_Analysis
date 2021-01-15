@@ -60,10 +60,15 @@ python3 cleaned_get_youtube_comments_backup.py --order time --csv_filename MrBea
 ## Exploratory Data Analysis
 
 ### Video 1
-<img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_1.png" alt="Video 1" width="350" height="300">
-<img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Word_Cloud_1.png" alt="Video 1" width="350" height="200">
+<p float="left">
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_1.png" alt="Video 1" width="350" height="300"/>
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Word_Cloud_1.png" alt="Video 1" width="450" height="300" />
+</p>
 
 ### Video 2
-<img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Video 1" width="350" height="300">
-<img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Word_Cloud_2.png" alt="Video 1" width="350" height="200">
+<p float="left">
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Video 1" width="350" height="300"/>
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Word_Cloud_2.png" alt="Video 1" width="450" height="300" />
+</p>
+
 
