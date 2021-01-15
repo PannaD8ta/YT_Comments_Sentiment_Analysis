@@ -3,7 +3,8 @@ The study aims to review sentiments and opinions towards a YouTuber's channel ba
 
 - Scraped over 1,000 YouTube comments using Python and Youtube Data API
 - Engineered polarity and subjectivity features based on user's opinions on the targeted Youtube video
-- There is evidence that the YouTuber received a lot more negative sentiments after the public backlash. 
+- The YouTube channel received a lot more negative and neutral sentiments from 17.23% to 1.42% in average sentiment polarity after the public backlash.
+
 
 ## Resources Used
 **Programming language:** Python 3.7
