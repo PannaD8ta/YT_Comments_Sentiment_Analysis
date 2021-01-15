@@ -15,17 +15,17 @@ The study aims to review sentiments and opinions towards a YouTuber's channel ba
 
 ## YouTube Comments Scraping
 Scraped the following data points from YouTube API:
-- comment
-- comment_id
-- author_url
-- author_name
-- reply_count
-- like_count
-- date
-- vidid
-- total_reply_counts
-- vid_title
-- just_date
+- comment (strings)
+- comment_id (numerical)
+- author_url (url link)
+- author_name (strings)
+- reply_count (numerical) 
+- like_count (numerical) 
+- date (date/time) 
+- vidid (character) 
+- total_reply_counts (numerical) 
+- vid_title (character)
+- just_date (date/time) 
 
 ### Steps: 
 1. Firstly, let's get on a virtual environment (venv). "comments_collector" is the name of your venv, and it can be any name of your liking
