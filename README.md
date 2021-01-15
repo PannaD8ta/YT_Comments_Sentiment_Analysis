@@ -9,7 +9,7 @@ The study aims to review sentiments and opinions towards a YouTuber's channel ba
 ## Resources Used
 **Programming language:** Python 3.7
 
-**Packages:** pandas, numpy, spacy, texthero, seaborn, matplotlib, re, json, pickle, urllib
+**Packages:** pandas, numpy, spaCy, texthero, seaborn, matplotlib, re, json, pickle, urllib
 
 **Scraper Article:** https://towardsdatascience.com/how-to-build-your-own-dataset-of-youtube-comments-39a1e57aade
 
